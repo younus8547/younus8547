@@ -1,4 +1,4 @@
-# Hi! 👋 I'm <a href="https://github.com/younus8547" target="_blank">Younus Mohammed</a>!
+# Hi! 👋 I'm <a href="https://github.com/younus8547" target="_blank">Younus Mohammed</a>
 
 ## Web Developer
 
