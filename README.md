@@ -2,8 +2,7 @@
 
 ## Web Developer
 
-<img align="right" alt="coding" width="400" src="/images![right-styling](https://github.com/younus8547/younus8547/assets/162951640/cf2cfce4-52e3-4de6-b79c-83b7b342424c)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/younus8547/younus8547/assets/162951640/1d60ef85-ac16-4aa8-840b-747981f7af76">
 
 
 Enthusiastic front-end developer with a Diploma in Web Design from CDI College, Montreal.  
