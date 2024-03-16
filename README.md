@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Enthusiastic front-end developer with a Diploma in Web Design from CDI College, Montreal. Proficient in HTML, CSS, and JavaScript. I bring creativity and technical expertise to create engaging and user-friendly web experiences. Passionate about staying updated with industry trends and committed to delivering high-quality solutions. Open to collaboration and eager to contribute to innovative projects.
+Enthusiastic front-end developer with a Diploma in Web Design from CDI College, Montreal. 
+Proficient in HTML, CSS, and JavaScript. I bring creativity and technical expertise to create engaging and user-friendly web experiences. Passionate about staying updated with industry trends and committed to delivering high-quality solutions. Open to collaboration and eager to contribute to innovative projects.
 
 *   🌍  I'm based in Halifax, Canada
 *   🖥️  See my portfolio at [github.com](http://github.com/younus8547)
