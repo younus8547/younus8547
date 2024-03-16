@@ -101,6 +101,6 @@ Proficient in HTML, CSS, and JavaScript. I bring creativity and technical expert
 
 
 ----
-![Visits Badge](https://badges.pufler.dev/visits/younus8547/younus8547)
+![Visits Badge](https://badges.pufler.dev/visits/younus8547)
 
 ![](https://komarev.com/ghpvc/?username=younus8547)
